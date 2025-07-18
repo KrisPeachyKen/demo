@@ -17,9 +17,9 @@
       "ejs": "^2.4.2",
       "ejs-locals": "^1.0.2",
       "express": "~4.13.1",
-      "express-session": "^1.13.0",
+      "express-session": "^1.18.2",
       "log4js": "^0.6.36",
-      "morgan": "~1.6.1",
+      "morgan": "~1.10.1",
       "pg-promise": "^4.4.6",
       "serve-favicon": "~2.3.0"
     }
